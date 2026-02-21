@@ -1,2 +1,2 @@
 # Bedrock-Addons
-Simply Bedrock addons using scripts
+Simple Bedrock addons using scripts
